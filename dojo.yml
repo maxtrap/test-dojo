@@ -3,4 +3,3 @@ modules:
   - import:
       dojo: example
       module: hello
-      challenge: apple
