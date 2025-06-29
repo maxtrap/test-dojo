@@ -3,3 +3,5 @@ modules:
   - import:
       dojo: example
       module: hello
+    challenges:
+      - id: ken-thompson
