@@ -2,5 +2,5 @@ id: my-own-dojo-shi
 name: Hacker World
 import:
   dojo: intro-to-cybersecurity
-  modules:
-    - id: web-security
+modules:
+  - id: web-security
