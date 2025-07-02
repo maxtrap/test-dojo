@@ -3,5 +3,5 @@ name: Hacker World
 import:
   dojo: intro-to-cybersecurity
 modules:
-  import:
-    module: web-security
+  - import:
+      module: web-security
