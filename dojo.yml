@@ -5,3 +5,6 @@ import:
 modules:
   - import:
       module: web-security
+  - import:
+      dojo: example
+      module: hello
