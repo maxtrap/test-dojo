@@ -1,7 +1,2 @@
-id: richard-stallman
-modules:
-  - import:
-      dojo: example
-      module: hello
-    challenges:
-      - id: apple
+import:
+  dojo: example
