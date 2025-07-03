@@ -4,6 +4,6 @@ modules:
   - id: hello
     challenges:
       - import:
-          dojo: hello
+          dojo: example
           module: hello
-          challenge: hello
+          challenge: apple
