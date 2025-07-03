@@ -1,3 +1,4 @@
-import:
-  dojo: example
-  
+modules:
+- import:
+    dojo: example
+    module: hello
