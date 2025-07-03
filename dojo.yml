@@ -1,4 +1,4 @@
 id: not-broken
 type: public
 modules:
-  -
+  - allow_priveleged: true
