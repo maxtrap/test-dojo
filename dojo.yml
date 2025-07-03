@@ -3,4 +3,5 @@ type: public
 modules:
   - id: hello
     challenges:
-      - allow_privileged: true
+      - name: challenge1
+        allow_privileged: true
