@@ -1,6 +1,6 @@
 id: not-broken
 type: public
 modules:
-  - id: broken
+  - id: hello
     challenges:
       - allow_privileged: true
