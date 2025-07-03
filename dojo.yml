@@ -1,1 +1,5 @@
+id: welcome friend
 type: public
+modules:
+  - import:
+      module: hello
