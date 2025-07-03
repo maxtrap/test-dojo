@@ -1,4 +1,4 @@
-id: welcome friend
+id: welcome-friend
 type: public
 modules:
   - import:
