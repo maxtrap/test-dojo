@@ -1,6 +1,1 @@
-id: not-broken
 type: public
-modules:
-  - challenges:
-    - name: challenge1
-      allow_privileged: true
