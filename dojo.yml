@@ -1,2 +1,5 @@
 import:
   dojo: example
+  modules:
+    - import:
+        module: hello
