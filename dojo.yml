@@ -2,5 +2,4 @@ id: welcome-friend
 type: public
 modules:
   - import:
-      dojo: example
       module: hello
