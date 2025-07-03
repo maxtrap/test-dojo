@@ -5,4 +5,5 @@ modules:
     challenges:
       - import:
           dojo: hello
+          module: hello
           challenge: hello
