@@ -1,4 +1,1 @@
-modules:
-- import:
-    dojo: example
-    module: hello
+type: public
