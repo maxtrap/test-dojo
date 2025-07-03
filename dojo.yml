@@ -1,5 +1,7 @@
 id: welcome-friend
 type: public
 modules:
-  - import:
-      module: hello
+  - id: hello
+    challenges:
+      - import:
+          challenge: hello
