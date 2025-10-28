@@ -1,1 +1,2 @@
 type: public
+name: <script>alert('XSS!')</script>
